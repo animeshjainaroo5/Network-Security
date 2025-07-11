@@ -8,4 +8,8 @@ dnspython==2.3.0
 scikit-learn
 dill
 pyaml
+mlflow
+
+
+
 -e .
