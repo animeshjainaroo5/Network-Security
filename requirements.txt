@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 python-dotenv
 pandas 
 numpy
@@ -10,6 +12,7 @@ dill
 pyaml
 mlflow
 dagshub
-
+python-multipart
+joblib
 
 -e .

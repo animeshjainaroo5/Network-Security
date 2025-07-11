@@ -3,6 +3,8 @@ Name: NetworkSecurity
 Version: 0.1
 Author: Animesh Jain
 Author-email: animeshjain.chd@gmail.com
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
@@ -15,6 +17,8 @@ Requires-Dist: dill
 Requires-Dist: pyaml
 Requires-Dist: mlflow
 Requires-Dist: dagshub
+Requires-Dist: python-multipart
+Requires-Dist: joblib
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
